@@ -17,18 +17,19 @@ The materials in the scene may need to be refreshed. Go to the Project tab, righ
 
 ------------------------------------------------------------------------------
 Setup for a new scene:
-	Add 2D Rectangular Tilemap to Hierarchy
-	Set the tag to 'Grid'
-	Set Cell Swizzle to XZY
-	Note: Cell Size might need to change depending on the size of the models
-	Open from the top toolbar: MGL Tools > 3D Tilemap Rule Tiles
-	Click 'Add New Level'
-	Open from the top toolbar: Window > 2D > Tile Palette
-	Change Tile Palette to GameObject Brush
-	Expand Cells and Element 0 for the GameObject Brush
-	Set the Game Object to a Rule Tile Prefab
-	Set the Active Tilemap selection to the an existing level
-	Use the Tile Palette tools to paint the rule tiles on the scene
+* Add 2D Rectangular Tilemap to Hierarchy
+* Set the tag to 'Grid'
+* Set Cell Swizzle to XZY
+* Note: Cell Size might need to change depending on the size of the models
+* Open from the top toolbar: MGL Tools > 3D Tilemap Rule Tiles
+* Click 'Add New Level'
+* Open from the top toolbar: Window > 2D > Tile Palette
+* Change Tile Palette to GameObject Brush
+* Expand Cells and Element 0 for the GameObject Brush
+* Set the Game Object to a Rule Tile Prefab
+* Set the Active Tilemap selection to the an existing level
+* Use the Tile Palette tools to paint the rule tiles on the scene
+ 
 ------------------------------------------------------------------------------
 Generate Rule Tiles:
 
